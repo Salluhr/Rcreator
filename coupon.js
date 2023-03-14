@@ -9,7 +9,7 @@ function closeCoupon(){
     document.getElementById('master').style.opacity='1';
 }
 
-let x= document.getElementById('out');
+let x= document.('out');getElementById
             let y = document.getElementById('weatherOut');
             function geolocation(){
                 if(navigator.geolocation){
